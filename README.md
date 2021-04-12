@@ -1,5 +1,6 @@
 # CMPSC 445: Final Project
 
+Link to heart attack classification data: 
 
 # Naïve-Bayes TODOs (Andrew)
 - [x] Collect data for problem
