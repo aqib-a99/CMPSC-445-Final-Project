@@ -1,5 +1,4 @@
-# CMPSC-445-Final-Project
-Spring 2021 - CMPSC  445 - Naive Bayes and Neural Networks
+# CMPSC 445: Final Project
 
 - [ ] List Naive Bayes TODOs
 - [ ] List Neural Network TODOs
